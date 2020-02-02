@@ -1,19 +1,18 @@
 # Qualifications Summary
 
-- Bulleted 
-•	+17 yrs. experience in IT & Telecommunications for Network Infrastructure, Service Management, Information Security and Account Management with large telecom carriers, as well as, oil & gas and mining – which include the last +10 yrs. dedicated to Software, Security and Cloud Services Sales.
+- +17 yrs. experience in IT & Telecommunications for Network Infrastructure, Service Management, Information Security and Account Management with large telecom carriers, as well as, oil & gas and mining – which include the last +10 yrs. dedicated to Software, Security and Cloud Services Sales.
 
-•	Acting in the coordination and architecture of solutions & services, SLA negotiation, VAS/OSS/BSS platforms and Software Sales (including XaaS).
+- Acting in the coordination and architecture of solutions & services, SLA negotiation, VAS/OSS/BSS platforms and Software Sales (including XaaS).
 
-•	Telecommunication account strategic development, via solution and services optimization according to the carrier demands and requirements.
+- Telecommunication account strategic development, via solution and services optimization according to the carrier demands and requirements.
 
-•	Expertise in CRM; as single-point-of-contact for services, software and value-added services platforms issues within strategic accounts.
+- Expertise in CRM; as single-point-of-contact for services, software and value-added services platforms issues within strategic accounts.
 
-•	Team coordination to discuss and improve customer service and solutions performance.
+- Team coordination to discuss and improve customer service and solutions performance.
 
-•	Project management experience in Latin America; delivery of Professional Services, IT Support, Training, Spare parts & Repair related to large data & telecommunications networks.
+- Project management experience in Latin America; Professional Services delivery, IT Support, Training, Spare parts & Repair related to large data & telecommunications networks.
 
-•	Purposeful, motivated by new challenges, available for travel and able to operate in environments composed of, both virtual and remote, multidisciplinary teams.
+- Purposeful, motivated by new challenges, available for travel and able to operate in environments composed of, both virtual and remote, multidisciplinary teams.
 
 # Education
 
