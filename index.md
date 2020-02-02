@@ -1,8 +1,3 @@
-ALBERTO ANDRES NETO
-| www.linkedin.com/in/albertoan
-| 43yrs; single; w/ travel availability
-
-
 Qualifications Summary
 
 •	+17 yrs. experience in IT & Telecommunications for Network Infrastructure, Service Management, Information Security and Account Management with large telecom carriers, as well as, oil & gas and mining – which include the last +10 yrs. dedicated to Software, Security and Cloud Services Sales.
