@@ -1,4 +1,4 @@
-Qualifications Summary
+#Qualifications Summary
 
 •	+17 yrs. experience in IT & Telecommunications for Network Infrastructure, Service Management, Information Security and Account Management with large telecom carriers, as well as, oil & gas and mining – which include the last +10 yrs. dedicated to Software, Security and Cloud Services Sales.
 
@@ -14,11 +14,11 @@ Qualifications Summary
 
 •	Purposeful, motivated by new challenges, available for travel and able to operate in environments composed of, both virtual and remote, multidisciplinary teams.
 
-Education
+#Education
 
 •	1995 – 2000	BS, Computer Engineering - Pontifícia Universidade Católica do Rio de Janeiro
 
-Experience
+#Experience
 
 2018, Microsoft – (US) develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services.
 
@@ -69,7 +69,7 @@ Application & Software Engineer – February 2004 – November 2004
 Network Security Analyst – April 2002 – January 2004
 •	Expertise in vulnerability analysis projects, network security, IT security solution development and network infrastructure.
 
-Languages and experience abroad
+#Languages and experience abroad
 
 •	English (USA; Shenzhen/HK - CN)
 •	Spanish (literacy / ”alfabetización” / ”alfabetização” @ Lima-Peru; Venezuela; México; Colombia; Argentina).
