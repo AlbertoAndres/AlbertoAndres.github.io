@@ -1,4 +1,4 @@
-#Qualifications Summary
+# Qualifications Summary
 
 •	+17 yrs. experience in IT & Telecommunications for Network Infrastructure, Service Management, Information Security and Account Management with large telecom carriers, as well as, oil & gas and mining – which include the last +10 yrs. dedicated to Software, Security and Cloud Services Sales.
 
@@ -14,29 +14,29 @@
 
 •	Purposeful, motivated by new challenges, available for travel and able to operate in environments composed of, both virtual and remote, multidisciplinary teams.
 
-#Education
+# Education
 
 •	1995 – 2000	BS, Computer Engineering - Pontifícia Universidade Católica do Rio de Janeiro
 
-#Experience
+# Experience
 
-##2018, Microsoft – (US) develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services.
+## 2018, Microsoft – *(US) develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services.*
 
 Solution Specialist – December 2017 – Present
 •	Business applications specialist in charge of analyzing and discussing customer's needs, focused on the fastest and accurate way to build a strategy to seamlessly transform their operations, as well as to find the best possible solution deployment, for easiness of access and constant growth.
 
-##2017, Red Hat – (US) the world's leading provider of open source solutions
+## 2017, Red Hat – *(US) the world's leading provider of open source solutions*
 
 Sr. ICT Account Manager – March 2017 – Jun 2017
 •	Open-source software advocacy within the telecom industry, CRM, sales opportunities, new business models development and contract negotiation with América Móvil, Sky and Oi.
 
 
-##2016, Nexusguard – (US / HK) industry-leading DDoS mitigation services
+## 2016, Nexusguard – *(US / HK) industry-leading DDoS mitigation services*
 
 Channels Director – March 2016 – August 2016
 •	Telecom & Service Provider Enablement, Business development and key relationship management in the carrier industry. Revenue, business models & marketing plan development. Act as key channel strategist to regional sales managers within the Telecom and Service Providers space.
 
-##2010 – 2015, CA Technologies – (US) one of the largest independent software vendor
+## 2010 – 2015, CA Technologies – *(US) one of the largest independent software vendor*
 
 Sr. Solution Strategist – April 2015 – December 2015
 •	Enterprise management solutions Software sales for Platinum segment accounts such as Petrobras, VALE, Oi and Embratel, in Rio de Janeiro, MG and ES states.
@@ -50,7 +50,7 @@ Sr. Solution Strategist – April 2012 – March 2013
 Telecom Customer Solutions Architect – April 2010 – March 2012
 •	Business development within Oi xSP Network Engineering, IT, B2B and Marketing divisions.
 
-##2004 – 2010, Huawei – (Chinese) #1 telecom equipment manufacturer
+## 2004 – 2010, Huawei – *(Chinese) #1 telecom equipment manufacturer*
 
 Application & Software Account Manager – October 2008 – March 2010
 •	CRM, sales opportunities, new business models development and contract negotiation regarding Application & Software portfolio with Oi xSP.
@@ -69,7 +69,7 @@ Application & Software Engineer – February 2004 – November 2004
 Network Security Analyst – April 2002 – January 2004
 •	Expertise in vulnerability analysis projects, network security, IT security solution development and network infrastructure.
 
-#Languages and experience abroad
+# Languages and experience abroad
 
 •	English (USA; Shenzhen/HK - CN)
 •	Spanish (literacy / ”alfabetización” / ”alfabetização” @ Lima-Peru; Venezuela; México; Colombia; Argentina).
