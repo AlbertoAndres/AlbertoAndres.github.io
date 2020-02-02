@@ -1,6 +1,6 @@
 ALBERTO ANDRES NETO
-www.linkedin.com/in/albertoan
-43yrs; single; w/ travel availability
+| www.linkedin.com/in/albertoan
+| 43yrs; single; w/ travel availability
 
 
 Qualifications Summary
