@@ -1,6 +1,6 @@
 # Qualifications Summary
 
-- +18 yrs. experience in IT & Telecommunications for Network Infrastructure, Service Management, Information Security and Account Management with large telecom carriers, as well as, oil & gas and mining – which include the last +11 yrs. dedicated to Software, Security and Cloud Services Sales.
+- +20 yrs. experience in IT & Telecommunications for Network Infrastructure, Service Management, Information Security and Account Management with large telecom carriers, as well as, oil & gas and mining – which include the last +11 yrs. dedicated to Software, Security and Cloud Services Sales.
 
 - Acting in the coordination and architecture of solutions & services, SLA negotiation, VAS/OSS/BSS platforms and Software Sales (including XaaS).
 
@@ -23,8 +23,8 @@
 ## 2018, Microsoft
 *(US) develops, manufactures, licenses, supports and sells computer software, consumer electronics, personal computers, and related services.*
 
-**Solution Specialist – December 2017 – Present**
-- Business applications specialist in charge of analyzing and discussing customer's needs, focused on the fastest and accurate way to build a strategy to seamlessly transform their operations, as well as to find the best possible solution deployment, for easiness of access and constant growth.
+**Technical Solution Specialist – December 2017 – Present**
+- Modern Work & Business applications technical specialist in charge of analyzing and discussing customer's needs, focused on the fastest and accurate way to build a strategy to seamlessly transform their operations, as well as to find the best possible solution deployment, for easiness of access and constant growth.
 
 ## 2017, Red Hat
 *(US) the world's leading provider of open source solutions*
